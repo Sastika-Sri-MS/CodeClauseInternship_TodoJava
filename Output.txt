@@ -1,0 +1,58 @@
+OUTPUT:
+
+To-Do List Menu:
+1. Add item
+2. Remove item
+3. View items
+4. Quit
+Enter your choice (1/2/3/4): 1
+Enter the task to add: Study Java.
+Task added: Study Java.
+
+To-Do List Menu:
+1. Add item
+2. Remove item
+3. View items
+4. Quit
+Enter your choice (1/2/3/4): 1
+Enter the task to add: Do exercises.
+Task added: Do exercises.
+
+To-Do List Menu:
+1. Add item
+2. Remove item
+3. View items
+4. Quit
+Enter your choice (1/2/3/4): 3
+To-Do List:
+1. Study Java.
+2. Do exercises.
+
+To-Do List Menu:
+1. Add item
+2. Remove item
+3. View items
+4. Quit
+Enter your choice (1/2/3/4): 2
+To-Do List:
+1. Study Java.
+2. Do exercises.
+Enter the item number to remove: 1
+Task removed: Study Java.
+
+To-Do List Menu:
+1. Add item
+2. Remove item
+3. View items
+4. Quit
+Enter your choice (1/2/3/4): 3
+To-Do List:
+1. Do exercises.
+
+To-Do List Menu:
+1. Add item
+2. Remove item
+3. View items
+4. Quit
+Enter your choice (1/2/3/4): 4
+Exiting the To-Do List program.
