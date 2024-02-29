@@ -32,13 +32,13 @@ To run this application, you need to have Java installed on your machine.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/ToDoList.git
+   git clone https://github.com/Sastika-Sri-MS/CodeClauseInternship_TodoJava.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd ToDoList
+   cd CodeClauseInternship_TodoJava
     ```
 
 3. Compile the Java code:
